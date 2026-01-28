@@ -16,7 +16,7 @@ body {
         h3{font-family: cursive;}
 }
 .input-container {
-    width: 45%;
+    width: 80%;
     display: flex;
     flex-direction: column;
     background: #E3D5CA;
@@ -38,7 +38,7 @@ body {
 }
 
 .result-row {
-    width: 45%;
+    width: 80%;
     background: #D5BDAF;
     padding: 15px;
     border-radius: 10px;
